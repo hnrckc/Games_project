@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Jogos pra Zerar é um app para te ajudar a não se perder na hora de finalizar aquele jogo que não consegue terminar por conta da sua rotina.
 
-- [Acesse o projeto finalizado, online](https://hnrckc.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://hnrckc.github.io/games_project/)
 
 ## 🔖 Layou
 
