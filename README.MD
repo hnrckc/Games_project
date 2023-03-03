@@ -32,7 +32,7 @@ O Jogos pra Zerar é um app para te ajudar a não se perder na hora de finalizar
 
 - [Acesse o projeto finalizado, online](https://hnrckc.github.io/games_project/)
 
-## 🔖 Layou
+## 🔖 Layout
 
 ## :memo: Licença
 
